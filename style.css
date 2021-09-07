@@ -1,0 +1,141 @@
+#one{
+    color:#76b900;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+#two{
+    color: #76b900;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+
+#three{
+    
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#four{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+#five{
+    color: white;
+    font-size: medium;
+    text-align: center;
+}
+
+#six{
+    color:white;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+#seven{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+}
+
+#eight{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold ;
+    text-align: center;
+}
+
+#nine {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+ol,li {
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: large;
+}
+
+tr{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-primary{
+    background-color: #76b900 !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: large;
+}
+
+table,tr,td{
+    border: 2px solid #76b900;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+th{
+    border: 2px solid #76b900;
+}
+
+input,label{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mail{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+#favgame{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+#mc{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+#gpu{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+#date{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+#com{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+ 
+  
+  
+    
